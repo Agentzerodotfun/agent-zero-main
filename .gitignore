@@ -5,7 +5,7 @@
 
 # Ignore git (for bundler)
 .git/
-
+.vscode
 # Ignore all contents of the virtual environment directory
 .venv/
 
