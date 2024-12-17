@@ -1,7 +1,7 @@
 # Agent Zero
 
  [![Follow on X.com](https://img.shields.io/badge/X.com-Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Agentzero_fun)
-
+ [![pump.fun](https://pump.fun/_next/image?url=%2Flogo.png&w=64&q=75)](https://pump.fun/coin/3NAb9RM9UZAatvuSDYeC6mT9NucoNgnPAuz8pfoEpump)
 
 **Personal and organic AI framework**
 - Agent Zero is not a predefined agentic framework. It is designed to be dynamic, organically growing, and learning as you use it.
