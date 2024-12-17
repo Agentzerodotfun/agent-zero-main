@@ -1,6 +1,6 @@
 # Agent Zero
 
- [![Follow on X.com](https://img.shields.io/badge/X.com-Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Agentzerodotfun)
+ [![Follow on X.com](https://img.shields.io/badge/X.com-Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Agentzero_fun)
 
 
 **Personal and organic AI framework**
